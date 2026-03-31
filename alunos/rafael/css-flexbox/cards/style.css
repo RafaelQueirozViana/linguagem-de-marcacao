@@ -77,11 +77,12 @@ article .text-box {
   margin: 10px 0;
   border-bottom: 1px solid rgba(0, 0, 0, 0.175);
   padding-bottom: 20px;
+
 }
 
 article .text-box p {
   font-size: 1rem;
-  color: #08348dbb;
+  color: #0000006c;
   line-height: 22px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 
@@ -98,4 +99,7 @@ article h2 {
   justify-self: end;
   align-self: flex-end;
   margin-top: 20px;
+  font-size: .84rem;
+  color: rgba(7, 7, 78, 0.67);
+
 }
